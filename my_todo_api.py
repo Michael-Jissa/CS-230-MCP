@@ -12,6 +12,7 @@ logger = logging.getLogger("todo")
 
 app = FastAPI()
 
+
 # ----------------------------
 # data model
 # ----------------------------
